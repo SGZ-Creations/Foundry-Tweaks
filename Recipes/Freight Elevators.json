@@ -1,0 +1,23 @@
+{
+  "changes": {
+    "recipes": {
+      "_base_freight_elevator_ii": {
+        "input_data": {
+          "_base_xenoferrite_plates": {},
+		  "_base_eic_i": {},
+          "_base_freight_elevator_i": {
+            "amount": 1
+          }
+        }
+      },
+      "_base_freight_elevator_iii": {
+        "input_data": {
+          "_base_xenoferrite_plates": {},
+          "_base_freight_elevator_ii": {
+            "amount": 1
+          }
+        }
+      }
+    }
+  }
+}
