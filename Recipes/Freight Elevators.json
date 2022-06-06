@@ -13,6 +13,8 @@
       "_base_freight_elevator_iii": {
         "input_data": {
           "_base_xenoferrite_plates": {},
+          "_base_xf_steel_beams": {},
+          "_base_mic_ii": {},
           "_base_freight_elevator_ii": {
             "amount": 1
           }
