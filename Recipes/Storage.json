@@ -17,6 +17,16 @@
               "amount": 1
             }
           }
+        },
+        "_base_container": {
+          "input_data": {
+            "_base_xenoferrite_plates": {
+              "amount": 20
+            },
+            "_base_chest": {
+              "amount": 1
+            }
+          }
         }
       }
     }

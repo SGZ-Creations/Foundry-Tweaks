@@ -1,0 +1,14 @@
+{
+    "changes": {
+      "recipes": {
+        "_base_science_pack_ii": {
+          "input_data": {
+            "_base_conveyor_i": {},
+            "_base_xf_steel_beams": {
+                "amount": 5
+            }
+          }
+        }
+      }
+    }
+  }
