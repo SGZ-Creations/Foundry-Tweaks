@@ -28,3 +28,5 @@ Swaps components with previous tiers.
 
 
 Hopefully i can add some adapted fixes for these Mods/Tweaks with permission from author.
+
+Note should your save not load please let me know witch file u added as it means i forgot to test it and that there's a item that don't have the proper name. basically it's saying the item don't exist and it needs a fix.
