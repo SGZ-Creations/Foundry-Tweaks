@@ -4,8 +4,11 @@
       "_base_conveyor_balancer_ii": {
         "input_data": {
           "_base_conveyor_ii": {},
-		  "_base_mic_i": {},
-		  "_base_eic_i": {},
+		      "_base_mic_i": {},
+          "_base_mic_ii": {
+			      "amount": 4
+		      },
+		      "_base_eic_i": {},
           "_base_conveyor_balancer_i": {
             "amount": 1
           }
@@ -14,9 +17,7 @@
       "_base_conveyor_balancer_iii": {
         "input_data": {
           "_base_conveyor_iii": {},
-		  "_base_mic_ii": {
-			  "amount": 4
-		  },
+		      "_base_mic_ii": {},
           "_base_conveyor_balancer_ii": {
             "amount": 1
           }
