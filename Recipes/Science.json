@@ -6,7 +6,7 @@
           "input_data": {
             "_base_conveyor_i": {},
             "_base_building_part": {
-              "amount": 15
+              "amount": 5
             },
             "_base_xf_steel_beams": {
                 "amount": 5
