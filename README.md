@@ -4,7 +4,7 @@
 
 * Note before using these you will have to download this here & follow it's instructions https://github.com/erkle64/Tweakificator
 
-In Folder Recipes. Note this will have incompatibilities with some mods/tweaks from https://github.com/erkle64/Tweakificator/releases/tag/Example these will be listed below. Also note those links will download the incompatible mod as that's just how i specify witch mods/tweaks it is. Should u only want some of the mods/tweaks the incompatibilities might not apply. As say if u download all except "Science" the 2 link related to "Science/ExpertResearch" will then work.
+In Folder Recipes. Note this will have incompatibilities with some mods/tweaks from https://github.com/erkle64/Tweakificator/releases/tag/Example these will be listed below. Also note those links will download the incompatible mod as that's just how i specify witch mods/tweaks it is. Should u only want some of the mods/tweaks the incompatibilities might not apply. As say if u download all except "Science" the 2 link related to "Science/ExpertResearch" should then work. Tho if u have any question feel free to post an issue.
 
 https://github.com/erkle64/Tweakificator/releases/download/Example/ExpertResearch10.json. ExpertResearch10.json,
 https://github.com/erkle64/Tweakificator/releases/download/Example/ExpertResearch100.json. ExpertResearch100.json,
