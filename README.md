@@ -1,4 +1,4 @@
-# Foundry-Tweaks
+# Foundry-Tweaks currntly for only 0.4.3
 
 * Tweaks for the game Foundry : https://meder-dynamics.itch.io/foundry
 
