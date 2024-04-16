@@ -1,33 +1,33 @@
 {
-    "changes": {
-      "recipes": {
-        "_base_logistic_container_ii": {
-          "input_data": {
-            "_base_xenoferrite_plates": {},
-            "_base_eic_i": {},
-            "_base_logistic_container_i": {
-              "amount": 1
-            }
+  "changes": {
+    "recipes": {
+      "_base_logistic_container_ii": {
+        "input_data": {
+          "_base_xenoferrite_plates": {},
+          "_base_eic_i": {},
+          "_base_logistic_container_i": {
+            "amount": 1
           }
-        },
-        "_base_logistic_container_iii": {
-          "input_data": {
-            "_base_xf_steel_beams": {},
-            "_base_logistic_container_ii": {
-              "amount": 1
-            }
+        }
+      },
+      "_base_logistic_container_iii": {
+        "input_data": {
+          "_base_xf_steel_beams": {},
+          "_base_logistic_container_ii": {
+            "amount": 1
           }
-        },
-        "_base_container": {
-          "input_data": {
-            "_base_xenoferrite_plates": {
-              "amount": 20
-            },
-            "_base_chest": {
-              "amount": 1
-            }
+        }
+      },
+      "_base_container": {
+        "input_data": {
+          "_base_xenoferrite_plates": {
+            "amount": 20
+          },
+          "_base_chest": {
+            "amount": 1
           }
         }
       }
     }
   }
+}
