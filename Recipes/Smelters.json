@@ -1,18 +1,18 @@
 {
-  "changes": {
-    "recipes": {
-      "_base_induction_smelter_i": {
-        "input_data": {
-          "_base_xenoferrite_plates": {
-          "amount": 15
-          },
-		      "_base_eic_i": {},
-          "_base_mic_i": {}, 
-          "_base_smelter_i": {
-            "amount": 1
-          }
+    "changes": {
+        "recipes": {
+            "_base_induction_smelter_i": {
+                "input_data": {
+                    "_base_xenoferrite_plates": {
+                        "amount": 15
+                    },
+                    "_base_eic_i": {},
+                    "_base_mic_i": {}, 
+                    "_base_smelter_i": {
+                        "amount": 1
+                    }
+                }
+            }
         }
-      }
     }
-  }
 }

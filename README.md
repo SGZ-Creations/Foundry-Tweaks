@@ -1,20 +1,20 @@
-# Foundry-Tweaks currntly for Version 0.5.0 Demo only
+# Foundry-Tweaks currently for Version 0.5.0 Demo only
 
 * ItemAddtions Gives recipes and bypases the tech 4 cards required to unlock them. All you need is to find the recipes in the custom added tab 
-    - Install the mod https://github.com/glcoder/ScienceUnlock.
-    - then you can safly add (ItemAdditions).
-    - add to ?:\Itch.io Games\foundry\Mods
+    - Install the mod https://github.com/glcoder/ScienceUnlock. and Add to ?:\Itch.io Games\foundry\Mods
+    - Then safely add (ItemAdditions) after un-packing. 
+    - Add to ?:\Itch.io Games\foundry\Mods
 
 * RecipeTweakes makes you able to convert Dirt and Rain-Dirt, Stone, gravel in to sand and late game tunr this so in to resorses for your other crafting needs so make suer to stock pile it all. all recipes here is alos find in one of my custom tabs
-    - All you need is to install the folder with the content.
-    - add to ?:\Itch.io Games\foundry\Mods
+    - All you need is to install (RecipeTweaks) after un-packing
+    - Add to ?:\Itch.io Games\foundry\Mods
 
 
 # Foundry-Tweaks currently version for 0.4.3 only
 
-* Tweaks for the game Foundry : https://meder-dynamics.itch.io/foundry
+    * Tweaks for the game Foundry : https://meder-dynamics.itch.io/foundry
 
-* Note before using these you will have to download this here & follow it's instructions https://github.com/erkle64/Tweakificator
+    * Note before using these you will have to download this here & follow it's instructions https://github.com/erkle64/Tweakificator
 
 In Folder Recipes. Note this will have incompatibilities with some mods/tweaks from https://github.com/erkle64/Tweakificator/releases/tag/Example these will be listed below. Also note those links will download the incompatible mod as that's just how i specify witch mods/tweaks it is. Should u only want some of the mods/tweaks the incompatibilities might not apply. As say if u download all except "Science" the 2 link related to "Science/ExpertResearch" should then work. Tho if u have any question feel free to post an issue.
 
@@ -23,20 +23,20 @@ https://github.com/erkle64/Tweakificator/releases/download/Example/ExpertResearc
 https://github.com/erkle64/Tweakificator/releases/download/Example/ExpertMode4.json. ExpertMode4.json
 https://github.com/erkle64/Tweakificator/releases/download/Example/ExpertMode10.json. ExpertMode10.json
 
-Balancers:
-swaps components with previous tiers.
+    * Balancers:
+        - swaps components with previous tiers.
 
-Freight Elevator:
-Swaps components with previous tiers.
+    * Freight Elevator:
+        - Swaps components with previous tiers.
 
-Science:
-Removes belt completely adds 5x steel beams instead to avoid the half belt craft.
+    * Science:
+        - Removes belt completely adds 5x steel beams instead to avoid the half belt craft.
 
-Smelter:
-Swaps components with previous tiers
+    * Smelter:
+        - Swaps components with previous tiers
 
-Storage:
-Swaps components with previous tiers.
+    * Storage:
+        - Swaps components with previous tiers.
 
 
 Hopefully i can add some adapted fixes for these Mods/Tweaks with permission from author.
