@@ -1,0 +1,7 @@
+{
+  "identifier": "https://github.com/SGZ-Creations/Foundry-Tweaks#RecipeTweaks",
+  "displayName": "RecipeTweaks",
+  "assetBundles": [
+    "sgz_recipe_tweaks.assets"
+  ]
+}

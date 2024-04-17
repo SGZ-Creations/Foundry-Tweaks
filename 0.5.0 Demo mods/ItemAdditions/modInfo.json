@@ -1,0 +1,7 @@
+{
+  "identifier": "https://github.com/SGZ-Creations/Foundry-Tweaks#ItemAdditions",
+  "displayName": "ItemAdditions",
+  "assetBundles": [
+    "sgz_additions.assets"
+  ]
+}
