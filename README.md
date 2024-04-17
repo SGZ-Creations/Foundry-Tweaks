@@ -1,4 +1,16 @@
-# Foundry-Tweaks currntly for only 0.4.3
+# Foundry-Tweaks currntly for Version 0.5.0 Demo only
+
+* ItemAddtions Gives recipes and bypases the tech 4 cards required to unlock them. All you need is to find the recipes in the custom added tab 
+    - Install the mod https://github.com/glcoder/ScienceUnlock.
+    - then you can safly add (ItemAdditions).
+    - add to ?:\Itch.io Games\foundry\Mods
+
+* RecipeTweakes makes you able to convert Dirt and Rain-Dirt, Stone, gravel in to sand and late game tunr this so in to resorses for your other crafting needs so make suer to stock pile it all. all recipes here is alos find in one of my custom tabs
+    - All you need is to install the folder with the content.
+    - add to ?:\Itch.io Games\foundry\Mods
+
+
+# Foundry-Tweaks currently version for 0.4.3 only
 
 * Tweaks for the game Foundry : https://meder-dynamics.itch.io/foundry
 
