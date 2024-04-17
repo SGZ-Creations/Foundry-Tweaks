@@ -4,10 +4,12 @@
     - Install the mod https://github.com/glcoder/ScienceUnlock. and Add to ?:\Itch.io Games\foundry\Mods
     - Then safely add (ItemAdditions) after un-packing. 
     - Add to ?:\Itch.io Games\foundry\Mods
+    - Find laterst version of the mod(s) at https://github.com/SGZ-Creations/Foundry-Tweaks/releases
 
 * RecipeTweakes makes you able to convert Dirt and Rain-Dirt, Stone, gravel in to sand and late game tunr this so in to resorses for your other crafting needs so make suer to stock pile it all. all recipes here is alos find in one of my custom tabs
     - All you need is to install (RecipeTweaks) after un-packing
     - Add to ?:\Itch.io Games\foundry\Mods
+    - Find laterst version of the mod(s) at https://github.com/SGZ-Creations/Foundry-Tweaks/releases
 
 
 # Foundry-Tweaks currently version for 0.4.3 only
