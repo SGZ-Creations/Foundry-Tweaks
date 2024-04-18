@@ -1,4 +1,4 @@
-# Foundry-Tweaks currently for Version 0.5.0 Demo only
+# Foundry-Tweaks for Version 0.5.0 Demo only
 
 * ItemAddtions Gives recipes and bypases the tech 4 cards required to unlock them. All you need is to find the recipes in the custom added tab 
     - Install the mod https://github.com/glcoder/ScienceUnlock. and Add to ?:\Itch.io Games\foundry\Mods
@@ -12,7 +12,7 @@
     - Find laterst version of the mod(s) at https://github.com/SGZ-Creations/Foundry-Tweaks/releases
 
 
-# Foundry-Tweaks currently version for 0.4.3 only
+# Foundry-Tweaks for version 0.4.3 only
 
     * Tweaks for the game Foundry : https://meder-dynamics.itch.io/foundry
 
