@@ -6,6 +6,8 @@
         - Add to ?:\Itch.io Games\foundry\Mods
         - Find laterst version of the mod(s) at https://github.com/SGZ-Creations/Foundry-Tweaks/releases
 
+
+
     * RecipeTweakes makes you able to convert (Dirt, Rain-Dirt, Stone, Gravel in to Sand and later game. Turn this so in to recourses for your other crafting needs. So make sure to stock pile it all. Recipes here is also found in one if not 2 of my custom added tabs.
         - All you need is to install (RecipeTweaks) after un-packing
         - Add to ?:\Itch.io Games\foundry\Mods
