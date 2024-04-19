@@ -3,7 +3,6 @@
     * ItemAddtions
     Gives recipes and bypases the tech 4 cards required to unlock them. Recipes here is also found in one if not 2 of my custom added tabs.
         - Dependencies: https://github.com/glcoder/ScienceUnlock. and Add to ?:\Itch.io Games\foundry\Mods
-        - Then safely add (ItemAdditions) after un-packing. 
         - Add to ?:\Itch.io Games\foundry\Mods
         - Find laterst version of the mod(s) at https://github.com/SGZ-Creations/Foundry-Tweaks/releases
 
