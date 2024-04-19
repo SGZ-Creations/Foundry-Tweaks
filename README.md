@@ -15,7 +15,7 @@
 
 
     * ScienceOverhaul 
-    Changes Recipe output to 5. Also Changes the recipe inputs to be more convenient.
+    Changes Recipe output to 5. Also Changes the recipe inputs to be more convenient. 0.1.1 added stone, dirt version that is intentionally made to not be automated.
         - Dependencies: RecipeTweakes https://github.com/SGZ-Creations/Foundry-Tweaks/releases
         - Add to ?:\Itch.io Games\foundry\Mods
         - Find laterst version of the mod(s) at https://github.com/SGZ-Creations/Foundry-Tweaks/releases
