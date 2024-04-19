@@ -1,0 +1,7 @@
+{
+  "identifier": "https://github.com/SGZ-Creations/Foundry-Tweaks#ScienceOverhaul",
+  "displayName": "ScienceOverhaul",
+  "assetBundles": [
+    "sgz_science_overhaul.assets"
+  ]
+}

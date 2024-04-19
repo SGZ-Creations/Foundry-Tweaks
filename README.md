@@ -1,17 +1,24 @@
 # Foundry-Tweaks for Version 0.5.0 Demo only
 
-    * ItemAddtions Gives recipes and bypases the tech 4 cards required to unlock them. Recipes here is also found in one if not 2 of my custom added tabs.
-        - Install the mod https://github.com/glcoder/ScienceUnlock. and Add to ?:\Itch.io Games\foundry\Mods
+    * ItemAddtions
+    Gives recipes and bypases the tech 4 cards required to unlock them. Recipes here is also found in one if not 2 of my custom added tabs.
+        - Dependencies: https://github.com/glcoder/ScienceUnlock. and Add to ?:\Itch.io Games\foundry\Mods
         - Then safely add (ItemAdditions) after un-packing. 
         - Add to ?:\Itch.io Games\foundry\Mods
         - Find laterst version of the mod(s) at https://github.com/SGZ-Creations/Foundry-Tweaks/releases
 
 
-
-    * RecipeTweakes makes you able to convert (Dirt, Rain-Dirt, Stone, Gravel in to Sand and later game. Turn this so in to recourses for your other crafting needs. So make sure to stock pile it all. Recipes here is also found in one if not 2 of my custom added tabs.
-        - All you need is to install (RecipeTweaks) after un-packing
+    * RecipeTweakes 
+    Makes you able to convert (Dirt, Rain-Dirt, Stone, Gravel in to Sand and later game. Turn this so in to recourses for your other crafting needs. So make sure to stock pile it all. Recipes here is also found in one if not 2 of my custom added tabs.
+        - Dependencies: NA
         - Add to ?:\Itch.io Games\foundry\Mods
         - Find laterst version of the mod(s) at https://github.com/SGZ-Creations/Foundry-Tweaks/releases
+
+
+    * ScienceOverhaul 
+    Changes Recipe output to 5. Also Changes the recipe inputs to be more convenient.
+        - Dependencies: RecipeTweakes https://github.com/SGZ-Creations/Foundry-Tweaks/releases
+        - Add to ?:\Itch.io Games\foundry\Mods
 
 # Foundry-Tweaks for version 0.4.3 only
 
