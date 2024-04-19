@@ -18,6 +18,7 @@
     Changes Recipe output to 5. Also Changes the recipe inputs to be more convenient.
         - Dependencies: RecipeTweakes https://github.com/SGZ-Creations/Foundry-Tweaks/releases
         - Add to ?:\Itch.io Games\foundry\Mods
+        - Find laterst version of the mod(s) at https://github.com/SGZ-Creations/Foundry-Tweaks/releases
 
 # Foundry-Tweaks for version 0.4.3 only
 
